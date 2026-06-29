@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ValorRenewal.github.io/sitemap.xml
